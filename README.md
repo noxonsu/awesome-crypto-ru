@@ -47,6 +47,8 @@ https://t.me/Coinlog — Coinlog
 
 https://t.me/Criptochatbtc — чат от Coinlog
 
+https://t.me/blockchainger — чат бота @ixa_bot (для трейдеров) где обсуждают алькоины
+
 
 ## Обратная связь
 0xf08e@gmail.com / Vladimir
